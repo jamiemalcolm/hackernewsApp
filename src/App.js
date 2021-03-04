@@ -13,7 +13,7 @@ function App() {
     setSelectedStory(filter);
   }
 
-  // set a variable to a empty array
+  // set a variable to a empty array for use in the first fetch
   let storyIds = [];
 
 
